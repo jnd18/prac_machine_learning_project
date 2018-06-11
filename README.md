@@ -1,2 +1,5 @@
-# prac_machine_learning_project
-Final project for the Practical Machine Learning Course on Coursera
+# Practical Machine Learning Final Project
+
+This is my repository for the final project from the practical machine learning course on Coursera.
+
+To see my report, click [here].(report.md)
